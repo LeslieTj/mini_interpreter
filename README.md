@@ -45,3 +45,5 @@ C = A + B
 C
 Your program returned: 10
 ```
+
+Enjoy this toy!
